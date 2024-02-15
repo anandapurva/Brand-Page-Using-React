@@ -7,12 +7,12 @@ const App = () => {
   return (
     <div>
       <Navigation />
-      <div className="main_container">
+      <main className="main_container">
         <ContactHeader />
         <Form />
-      </div>
+      </main>
     </div>
   );
-};
+}
 
 export default App;
