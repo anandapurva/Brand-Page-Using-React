@@ -1,0 +1,15 @@
+body{
+    background-color: antiquewhite;
+}
+
+.outer_div{
+    width: 100%;
+    padding: 32px 16px;
+    margin: auto; 
+    max-width: 512px;
+    border-radius: 5px;
+    color: orange;
+    font-weight: 500;
+    background-color: rgb(55, 65, 81);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+}
